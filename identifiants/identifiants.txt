@@ -1,0 +1,9 @@
+Base de données :
+hôte : 172.18.153.44
+identifiant : boyera
+mot de passe : 12-Boyera&
+
+Serveur :
+hôte : 172.18.153.44
+identifiant : sio
+mot de passe : 12-Boyera&
